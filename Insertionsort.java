@@ -20,7 +20,7 @@ public class InsertionSortExample {
         }    
        System.out.println();    
             
-        insertionsort(arr1);//sorting array using insertion sort    
+        insertionsort(arr1);   
            
         System.out.println("After Insertion Sort");    
         for(int i:arr1){    
